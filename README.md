@@ -1,4 +1,4 @@
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-RU_PII_Models-FFD21E)](https://huggingface.co/collections/vladlinv/ru-pii-models-6a904e9aa4c31a2479bc64aa)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-RU_PII_Models-FFD21E)](https://huggingface.co/collections/metrika-labs/ru-pii-models-6a904e9aa4c31a2479bc64aa)
 
 ## О модели
 
@@ -8,8 +8,8 @@
 
 |  |  |
 |---|---|
-| [vladlinv/ru-pii-ner-gliner2.5](https://huggingface.co/vladlinv/ru-pii-ner-gliner2.5) | Распознавание типов и границ персональных данных. GLiNER2.5 |
-| [vladlinv/ru-pii-ner](https://huggingface.co/vladlinv/ru-pii-ner) | Распознавание типов и границ персональных данных. ruRoberta-large |
+| [metrika-labs/ru-pii-ner-gliner2.5](https://huggingface.co/metrika-labs/ru-pii-ner-gliner2.5) | Распознавание типов и границ персональных данных. GLiNER2.5 |
+| [metrika-labs/ru-pii-ner](https://huggingface.co/metrika-labs/ru-pii-ner) | Распознавание типов и границ персональных данных. ruRoberta-large |
 
 ## Датасет
 

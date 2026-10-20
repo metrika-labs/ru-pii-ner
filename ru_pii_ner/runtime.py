@@ -16,7 +16,7 @@ from transformers import logging as transformers_logging
 from . import hub
 from .decoding import Crf, spans_from_tags
 
-DEFAULT_SOURCE = "vladlinv/ru-pii-ner"
+DEFAULT_SOURCE = "metrika-labs/ru-pii-ner"
 BIO_TAGS = ("O", "B", "I")
 MAX_TOKENS = 512
 WEIGHT_KEYS = frozenset(
