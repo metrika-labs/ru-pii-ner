@@ -9,7 +9,6 @@
 |  |  |
 |---|---|
 | [metrika-labs/ru-pii-ner-gliner2.5](https://huggingface.co/metrika-labs/ru-pii-ner-gliner2.5) | Распознавание типов и границ персональных данных. GLiNER2.5 |
-| [metrika-labs/ru-pii-ner](https://huggingface.co/metrika-labs/ru-pii-ner) | Распознавание типов и границ персональных данных. ruRoberta-large |
 
 ## Датасет
 
